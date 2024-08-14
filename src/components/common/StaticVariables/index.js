@@ -1,0 +1,4 @@
+export const STATIC_VARIABLES = {
+  ADMINID: "AIBRYlPU6wwEDstjz8ev",
+  ROUTEPARTNERID: "611118",
+};
